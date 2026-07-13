@@ -231,3 +231,22 @@ Aspiring Data Analyst
 ---
 
 ⭐ If you found this project useful, consider giving it a Star.
+
+
+## 📊 Dashboard Preview
+
+### Executive Dashboard
+
+![Executive Dashboard](Executive_Dashboard.png)
+
+---
+
+### Customer Segmentation
+
+![Customer Segmentation](Customer_Segmentation.png)
+
+---
+
+### Service Analysis
+
+![Service Analysis](Service_Analysis.png)
