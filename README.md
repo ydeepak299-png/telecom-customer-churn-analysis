@@ -130,7 +130,39 @@ Analysis by:
 - Streaming TV
 - Streaming Movies
 
+----
+# 📷 Dashboard Preview
+
+## Executive Dashboard
+
+The Executive Dashboard provides a high-level overview of customer churn, revenue, customer retention, contract types, internet services, payment methods, and key business insights.
+
+![Executive Dashboard](Executive_Dashboard.png)
+
 ---
+
+## 📌 Additional Dashboard Pages
+
+This project also includes two additional interactive dashboard pages inside the Power BI report:
+
+- 👥 **Customer Segmentation Dashboard**
+  - Customer demographics
+  - Partner & Dependents analysis
+  - Phone Service & Multiple Lines
+  - Paperless Billing analysis
+
+- 🌐 **Service Analysis Dashboard**
+  - Online Security
+  - Tech Support
+  - Device Protection
+  - Online Backup
+  - Streaming TV
+  - Streaming Movies
+
+> **Note:** The complete interactive experience is available in the Power BI file:
+>
+> **Telecom_Customer_Churn_Dashboard.pbix**
+
 
 # 📊 Dashboard KPIs
 
@@ -144,25 +176,30 @@ Analysis by:
 
 ---
 
-# 📷 Dashboard Preview
+## 📊 Dashboard Preview
 
-## Executive Dashboard
+### 📌 Executive Dashboard
+
+Provides a high-level overview of customer churn, revenue, customer retention, contract types, payment methods, internet services, and key business KPIs.
 
 ![Executive Dashboard](Executive_Dashboard.png)
 
 ---
 
-## Customer Segmentation
+### 📌 Customer Segmentation
+
+Analyzes customer demographics and behavioral segments such as gender, partner status, dependents, phone services, paperless billing, and their relationship with churn.
 
 ![Customer Segmentation](Customer_Segmentation.png)
 
 ---
 
-## Service Analysis
+### 📌 Service Analysis
+
+Focuses on telecom services including Online Security, Tech Support, Device Protection, Streaming TV, Streaming Movies, and their impact on customer churn.
 
 ![Service Analysis](Service_Analysis.png)
 
----
 
 # 💡 Key Insights
 
